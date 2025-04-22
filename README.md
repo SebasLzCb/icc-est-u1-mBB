@@ -12,6 +12,12 @@
 
 ---
 
+## 🎯 Objetivo
+
+Implementar un algoritmo de **búsqueda binaria** sobre un conjunto de datos ordenados, utilizando estructuras adecuadas y mostrando el proceso paso a paso.
+
+---
+
 ## Descripción
 
 Esta práctica implementa el algoritmo de búsqueda binaria en Java utilizando objetos `Persona`, ordenados previamente por edad mediante el método de ordenamiento Insertion Sort.
